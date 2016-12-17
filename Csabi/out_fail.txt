@@ -1,0 +1,5 @@
+Irj be egy decimalis szamot: 64
+Decimalis szam kiirasa: 64
+0x00000040
+be0
+3040
